@@ -22,14 +22,16 @@ Mô tả hệ thống:
         - Quản lý tài khoản người dùng: Tìm kiếm, thêm, sửa, xóa
         - Thống kê số bài viết, số bình luận theo chủ đề.
 Phân công công việc các thành viên trong nhóm:
--Đoàn Văn Bình
+-- Đoàn Văn Bình
 + Đăng nhập
 + Đăng ký
 + Đăng bài viết(Controller,view)
 + Đăng bình luận(Controller,view)
 + Hiển thị chi tiết bài viết và các bình luận
 + Xử lý CSDL
--Bùi Thanh Ba
+
+
+-- Bùi Thanh Ba
 + Đổi mật khẩu người dùng
 + Xem thông tin người
 + Đăng xuất
@@ -38,7 +40,7 @@ Phân công công việc các thành viên trong nhóm:
         - Thống kê số bài viết, số bình luận theo chủ đề.
 + css
 
--Nguyễn Hoàng Anh
+-- Nguyễn Hoàng Anh
 + Đăng bài viết(model,view)
 + Đăng bình luận(model,view)
 + Tìm kiếm bài viết: Tìm kiếm theo từ khóa trong tiêu đề bài viết
