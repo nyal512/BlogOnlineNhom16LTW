@@ -2,9 +2,10 @@
 BÁO CÁO
 Đề tài: Hệ thống blog
 Nhóm thực hiện: 16
-Các sinh viên: - Nguyễn Hoàng Anh -B19DCCN024
-               - Đoàn Văn Bình - B19DCCN066
-               - Bùi Thanh Ba – B19DCCN054
+Các sinh viên: 
+    - Nguyễn Hoàng Anh - B19DCCN024
+    - Đoàn Văn Bình - B19DCCN066
+    - Bùi Thanh Ba – B19DCCN054
 Mô tả hệ thống:
 - Hệ thống blog gồm các chức năng:
     + Đăng nhập
