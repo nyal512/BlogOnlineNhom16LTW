@@ -33,7 +33,7 @@ Phân công công việc các thành viên trong nhóm:
 
 -- Bùi Thanh Ba
 + Đổi mật khẩu người dùng
-+ Xem thông tin người
++ Xem thông tin người dùng
 + Đăng xuất
 + Quản lý ( dành riêng cho Admin): gồm các chức năng
         - Quản lý tài khoản người dùng: Tìm kiếm, thêm, sửa, xóa
